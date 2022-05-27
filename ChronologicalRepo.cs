@@ -17,7 +17,7 @@ class ChronologicalRepo<T> : IChronologicalRepo<T> where T : ITemporal {
 	public IEnumerable<T> All => _items;
 	
 	public IEnumerable<T> FindAllByDate(DateTime date) {
-		return _dateIndex[date.Date];
+		return _dateIndex.GetValueOrDefault(date.Date);
 	}
 }
 
