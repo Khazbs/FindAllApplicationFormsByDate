@@ -1,0 +1,15 @@
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.csproj.AssemblyReference.cache
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.AssemblyInfoInputs.cache
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.AssemblyInfo.cs
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.csproj.CoreCompileInputs.cache
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/Program
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/Program.deps.json
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/Program.runtimeconfig.json
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/Program.dll
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/ref/Program.dll
+/home/runner/FindAllApplicationFormsByDate/bin/Debug/netcoreapp6.0/Program.pdb
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.dll
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/ref/Program.dll
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.pdb
+/home/runner/FindAllApplicationFormsByDate/obj/Debug/netcoreapp6.0/Program.genruntimeconfig.cache

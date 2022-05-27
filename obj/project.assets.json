@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/BulkyTurboDirectory/Main.csproj",
-      "projectName": "Main",
-      "projectPath": "/home/runner/BulkyTurboDirectory/Main.csproj",
+      "projectUniqueName": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
+      "projectName": "Program",
+      "projectPath": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/BulkyTurboDirectory/obj/",
+      "outputPath": "/home/runner/FindAllApplicationFormsByDate/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

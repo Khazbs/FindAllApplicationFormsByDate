@@ -1,5 +1,5 @@
 using System;
 
-interface IFact {
+interface ITemporal {
 	DateTime DateTime { get; }
 }

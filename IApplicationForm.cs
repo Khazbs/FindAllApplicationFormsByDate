@@ -1,4 +1,5 @@
-interface IApplicationForm : IFact {
+interface IApplicationForm : ITemporal {
 	IApplicant Applicant { get; }
 	string Body { get; }
+	string ToString();
 }

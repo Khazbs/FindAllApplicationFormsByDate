@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/FindAllApplicationFormsByDate/Main.csproj": {}
+    "/home/runner/FindAllApplicationFormsByDate/Program.csproj": {}
   },
   "projects": {
-    "/home/runner/FindAllApplicationFormsByDate/Main.csproj": {
+    "/home/runner/FindAllApplicationFormsByDate/Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/FindAllApplicationFormsByDate/Main.csproj",
-        "projectName": "Main",
-        "projectPath": "/home/runner/FindAllApplicationFormsByDate/Main.csproj",
+        "projectUniqueName": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
+        "projectName": "Program",
+        "projectPath": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
         "outputPath": "/home/runner/FindAllApplicationFormsByDate/obj/",
         "projectStyle": "PackageReference",
