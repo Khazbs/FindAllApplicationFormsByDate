@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/FindAllApplicationFormsByDate/Program.csproj": {}
+    "/home/runner/ApplicationService/Program.csproj": {}
   },
   "projects": {
-    "/home/runner/FindAllApplicationFormsByDate/Program.csproj": {
+    "/home/runner/ApplicationService/Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
+        "projectUniqueName": "/home/runner/ApplicationService/Program.csproj",
         "projectName": "Program",
-        "projectPath": "/home/runner/FindAllApplicationFormsByDate/Program.csproj",
+        "projectPath": "/home/runner/ApplicationService/Program.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/FindAllApplicationFormsByDate/obj/",
+        "outputPath": "/home/runner/ApplicationService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"

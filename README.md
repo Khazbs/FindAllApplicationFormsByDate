@@ -1,5 +1,5 @@
 # "Ideal Code"
-This repository contains my "Ideal Code" that efficiently solves a certain problem. ~Arthur Khazbulatov
+This repository contains my "Ideal Code" that efficiently solves a certain problem. _~Arthur Khazbulatov_
 
 ## The problem
 Every few minutes a company is receiving application forms from their customers. An application form contains the information about the applicant (including their first name, middle name and last name), the main body text and a creation timestamp. The company wants you to design an application forms service. The service must allow to create application forms and add them to a repository. You must implement retrieval of all application forms and finding all application forms created on a specific date, preserving the chronological order and with respect to time efficiency.
@@ -35,4 +35,4 @@ class ChronologicalRepo<T> : IChronologicalRepo<T>
 Retrieving applications in chronological order is made possible by storing them in lists, appending each in the order of their creation. Finding all application forms only takes O(1) thanks to the hashtable used in the dictionary to index the application forms by date.
 
 ## The everything else
-If you are interested, other files might be worth a peek too! Hit the **Run** button and see this code in action!
+If you are interested, other files might be worth a peek too! Look inside `Program.cs`, hit the **Run** button, wait for everything to compile and see this code in action!
